@@ -1,5 +1,2 @@
-Hallo, war
-kdfdld!
-My sweetheart
-Nice to meet you!
-Nice to meet you!
+Git is a distributed version control system.
+Git is a free software distributed under the GPL.
