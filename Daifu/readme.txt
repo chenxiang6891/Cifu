@@ -7,3 +7,5 @@ balabala
 My stupid boss prefers SVN.
 Creating a new branch is quick and simple.
 My good friend.
+Bug Branch here.
+Just Insert a Bug issue-101 here. 
