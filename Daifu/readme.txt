@@ -5,3 +5,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 My stupid boss prefers SVN.
 Creating a new branch is quick and simple.
+Bug Branch here.
+Just Insert a Bug issue-101 here. 
